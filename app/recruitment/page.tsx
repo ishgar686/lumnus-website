@@ -28,7 +28,7 @@ export default function Recruitment() {
               Recruitment will be starting Fall 2026. Fill out our interest form for <span className="text-foreground underline">Fall 2026 Recruitment</span> to learn more about opportunities and start your application.
             </p>
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSdvqo5TfS14-LYCSvGX5HmuVMUBd70zS2a95IoFNtysw8MnzA/viewform"
+              href="https://docs.google.com/forms/d/1VYW_bzuW0IVbdVFYjkUPOSwOGyZM-jKSOXHqdRaR0XE/viewform"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-brand hover:bg-brand-light text-brand-foreground text-sm md:text-lg px-10 py-4 rounded-full font-medium transition-all hover:scale-[1.03] active:scale-[0.98] hover:shadow-lg"
